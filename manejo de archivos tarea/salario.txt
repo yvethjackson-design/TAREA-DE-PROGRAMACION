@@ -1,0 +1,4 @@
+Empleado: Carlos
+Salario Bruto: 4800
+Deduccion: 480.0
+Salario Final: 4320.0

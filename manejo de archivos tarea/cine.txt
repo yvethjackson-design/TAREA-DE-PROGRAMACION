@@ -1,0 +1,5 @@
+Pelicula: shrek2
+Boletos: 6
+Precio: 120
+Descuento: 72.0
+Total a pagar: 648.0

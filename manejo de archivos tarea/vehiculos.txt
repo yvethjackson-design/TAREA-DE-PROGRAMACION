@@ -1,0 +1,14 @@
+Vehiculo 1
+Marca: Toyota
+Modelo: Corolla
+Año: 2020
+
+Vehiculo 2
+Marca: Honda
+Modelo: Civic
+Año: 2021
+
+Vehiculo 3
+Marca: Ford
+Modelo: Focus
+Año: 2019

@@ -1,0 +1,10 @@
+Arroz Stock: 5
+Leche Stock: 20
+Azucar Stock: 8
+Cafe Stock: 15
+Pan Stock: 4
+
+Productos con menos de 10 unidades
+Arroz
+Azucar
+Pan

@@ -1,0 +1,4 @@
+Arroz 3 x 45 = 135
+Leche 5 x 38 = 190
+Pan 2 x 20 = 40
+TOTAL FINAL = 365

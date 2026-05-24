@@ -1,0 +1,5 @@
+Comida: 500
+Transporte: 300
+Entretenimiento: 700
+Gasto Total: 1500
+Mayor gasto: Entretenimiento

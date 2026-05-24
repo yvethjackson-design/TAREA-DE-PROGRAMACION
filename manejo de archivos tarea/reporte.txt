@@ -1,0 +1,6 @@
+Karen
+Matematicas = 85
+Programacion = 70
+Ingles = 90
+Promedio = 81.66666666666667
+Aprobo

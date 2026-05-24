@@ -1,0 +1,4 @@
+Alumno: Luis
+Asistidas: 18
+Faltadas: 2
+Porcentaje: 90.0%
